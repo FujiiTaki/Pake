@@ -146,6 +146,14 @@ Sets whether the window is always at the top level, defaults to `false`.
 --always-on-top
 ```
 
+#### [dark-mode]
+
+Force Mac to package applications using dark mode, default is `false`.
+
+```shell
+--dark-mode
+```
+
 #### [disabled-web-shortcuts]
 
 Sets whether to disable web shortcuts in the original Pake container, defaults to `false`.
@@ -209,6 +217,14 @@ Specify the system tray icon. This is only effective when the system tray is ena
 
 ```shell
 --system-tray-icon <path>
+```
+
+#### [installer-language]
+
+Set the Windows Installer language. Options include `zh-CN`, `ja-JP`, More at [Tauri Document](https://tauri.app/zh-cn/v1/guides/building/windows/#internationalization). Default is `en-US`.
+
+```shell
+--installer-language <language>
 ```
 
 #### [use-local-file]
