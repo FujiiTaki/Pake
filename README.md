@@ -301,10 +301,10 @@ Pake's development can not be without these Hackers. They contributed a lot of c
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/eltociear">
-            <img src="https://avatars.githubusercontent.com/u/22633385?v=4" width="90;" alt="eltociear"/>
+        <a href="https://github.com/kittizz">
+            <img src="https://avatars.githubusercontent.com/u/62899732?v=4" width="90;" alt="kittizz"/>
             <br />
-            <sub><b>Ikko Eltociear Ashimine</b></sub>
+            <sub><b>Kittizz</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -313,6 +313,13 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <img src="https://avatars.githubusercontent.com/u/17235301?v=4" width="90;" alt="mattbajorek"/>
             <br />
             <sub><b>Matt Bajorek</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/vaddisrinivas">
+            <img src="https://avatars.githubusercontent.com/u/38348871?v=4" width="90;" alt="vaddisrinivas"/>
+            <br />
+            <sub><b>Srinivas Vaddi</b></sub>
         </a>
     </td>
     <td align="center">
@@ -337,6 +344,21 @@ Pake's development can not be without these Hackers. They contributed a lot of c
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/g1eny0ung">
+            <img src="https://avatars.githubusercontent.com/u/15034155?v=4" width="90;" alt="g1eny0ung"/>
+            <br />
+            <sub><b>Yue Yang</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/lkieryan">
+            <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
+            <br />
+            <sub><b>Kieran</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/exposir">
             <img src="https://avatars.githubusercontent.com/u/33340988?v=4" width="90;" alt="exposir"/>
             <br />
@@ -356,8 +378,7 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/imabutahersiddik">
             <img src="https://avatars.githubusercontent.com/u/138387257?v=4" width="90;" alt="imabutahersiddik"/>
@@ -385,7 +406,8 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <br />
             <sub><b>Dengju Deng</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Fechin">
             <img src="https://avatars.githubusercontent.com/u/2541482?v=4" width="90;" alt="Fechin"/>
@@ -406,8 +428,7 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <br />
             <sub><b>Jiaqi Gu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Milo123459">
             <img src="https://avatars.githubusercontent.com/u/50248166?v=4" width="90;" alt="Milo123459"/>
@@ -422,6 +443,21 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <sub><b>Po Chen</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/beautifulrem">
+            <img src="https://avatars.githubusercontent.com/u/98527099?v=4" width="90;" alt="beautifulrem"/>
+            <br />
+            <sub><b>Xie Ruiqi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bocanhcam">
+            <img src="https://avatars.githubusercontent.com/u/35592955?v=4" width="90;" alt="bocanhcam"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/geekvest">
             <img src="https://avatars.githubusercontent.com/u/126322776?v=4" width="90;" alt="geekvest"/>
@@ -456,8 +492,7 @@ Pake's development can not be without these Hackers. They contributed a lot of c
             <br />
             <sub><b>Liusishan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/piaoyidage">
             <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
